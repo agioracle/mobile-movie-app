@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "headspace-app",
-    "slug": "headspace-app",
+    "name": "Headspace",
+    "slug": "Headspace",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "headspaceapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

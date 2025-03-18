@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Headspace",
-    "slug": "Headspace",
+    "name": "Movie",
+    "slug": "Movie",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "headspaceapp",
+    "scheme": "movieapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
